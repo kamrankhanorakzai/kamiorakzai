@@ -1,0 +1,69 @@
+@media screen and (max-width:700px) {
+    
+
+.hire{
+    width: 100%;
+  
+    margin: auto;
+    margin-top: 20vh;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+align-items: center;
+    justify-content: center;
+    background: #ebebeb;
+    
+    border-radius: 0px;
+}
+.waja{
+    width: 100%;
+    margin: 0vw;
+    }
+.tax h1{width: 100vw;
+    text-transform: capitalize;
+    font-size: 6vw;
+}
+.tax p{width: 90%;
+    /* border: 1px solid red; */
+    margin-top: 7vh;
+    color: rgba(128, 128, 128, 0.959);
+    text-align: justify;}
+
+.tax button{
+    width: 60%;
+    height: 6vh;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    margin-top: 3vh;
+    color: orange;
+margin-bottom: 2vh;
+}
+
+
+.taswer img{
+    margin-top: 3vh;
+    margin-left: 0vw;
+    width: 80%;
+  border-radius: 00px;
+border: 1px solid rgb(0, 0, 0);
+}
+
+.foot i{
+    display: block;
+    cursor: pointer;
+    }
+.foot{height: 20vh;
+    margin-top: 20vh;
+    background-image: url(footer.jpg);
+    display: flex;
+    font-size: 8vw;
+    color: #ebebeb;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   gap: 2vw;
+   
+}
+
+}
