@@ -82,13 +82,13 @@
      
     }
     .exp{ 
-      font-size: 1vw;
+      
       /* border: 1px solid red; */
       display: flex;
       flex-direction: column;
     justify-content: space-between ;
     align-items: center;
-    width: 70%;
+    width: 98%;
     margin: auto;
     margin-top: 10vh;
     
@@ -97,7 +97,8 @@
     }
     .p{
       color: rgba(0, 0, 0, 0.63);
-    
+   text-align: justify;
+   font-size: 2vw;
     }
     
 }
